@@ -1,3 +1,5 @@
+//Nama Kelompok : Amadea Ratri (5221600005), Azizah Fauziyah (5221600020)
+
 #include <iostream>
 
 #include <GL/glew.h>
